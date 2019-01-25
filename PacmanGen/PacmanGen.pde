@@ -1,6 +1,4 @@
- //<>//
-
-PacmanMap leMap;
+PacmanMap leMap; //<>//
 PacmanPlayer lePlayer;
 
 PFont f;
